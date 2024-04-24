@@ -1,6 +1,5 @@
 ### Encontre o Melhor Petshop - DTI
 
-```markdown
 ## Resumo do Projeto
 
 Este projeto visa eencontrar a melhor opção de petshop para um dono de canil, considerando o preço dos banhos e a distância de um dos Petshops descritos informados. O backend da aplicação foi feito em NodeJS (expressJS), e o frontend em ReactJS.
@@ -24,4 +23,3 @@ Este projeto visa eencontrar a melhor opção de petshop para um dono de canil, 
 
 ## Informações Adicionais
 No front, foi criado somente o componente 'FormularioPetshop' (para simplificar), porém, em uma aplicação real, todos os campos de input seriam componentizados.
-```
